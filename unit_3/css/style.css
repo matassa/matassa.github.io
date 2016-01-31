@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	background-image: url("file:///Users/MatthewGMatassa/Desktop/matassa.github.io/unit_3/images/PrayingMantis.jpg");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+	}
+
+h1 {
+	text-align: Center;
+}
+
+p {
+	text-align: Center;
+}
+
+hr {
+	width: 200px;
+}
